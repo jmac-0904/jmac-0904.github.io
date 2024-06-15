@@ -3,10 +3,6 @@ label: About Us
 authors: Jmac the Rat
 order: 1000
 icon: home
-branding:
-  colors:
-    label:
-      background: "#eee5ce"
 ---
 ![](/images/24d0c14136145b62d821f3dbf9ef1611.png)
 
