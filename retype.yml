@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://jmac-0904.github.io 
+branding:
+  title: DW Guide
+  label: v1.0
+links:
+- text: Retype's Getting Started
+  link: https://retype.com/guides/getting-started/
+- text: About Us
+  link: welcome.md
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
