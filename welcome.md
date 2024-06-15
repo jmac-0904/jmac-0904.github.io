@@ -1,5 +1,6 @@
 ---
 label: About Us
+authors: Jmac the Rat
 order: 1000
 icon: home
 branding:
