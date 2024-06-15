@@ -9,5 +9,9 @@ links:
   link: https://retype.com/guides/getting-started/
 - text: About Us
   link: welcome.md
+- text: Start Here
+  link: start-here.md
+- text: New to D&D
+  link: new-to-dnd.md
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

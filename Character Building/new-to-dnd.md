@@ -19,14 +19,14 @@ icon: sparkle-fill
 > As you go through the help texts, if anything is unclear or confusing, please direct your questions to `#⁠beginner-help`.
 
 ### Character Preferences (settings) 
-![](Y75d0NS.png)
+![](images/Y75d0NS.png)
 > - **Dice Rolling**: Off 
 >   - We use Avrae Discord bot for this, not DnD Beyond 
 > - **Optional Features**: On 
 > - **Advancement Type**: Milestone 
 > - **Hit Point Type** 
 >   - "Fixed" recommended 
->   - If you choose "Manual", you MUST make the rolls in `⁠#official-character-rolls channel`, NOT in D&D Beyond 
+>   - If you choose "Manual", you MUST make the rolls in `⁠#official-character-rolls` channel, NOT in D&D Beyond 
 > 
 > - Leave the rest of the options as they are. Make sure **Character Privacy** is set to "Public"
 
