@@ -14,8 +14,8 @@ links:
 - text: About Us
   link: welcome.md
 - text: Start Here
-  link: /character-building/start-here.md
+  link: /character-building/start-here
 - text: New to D&D
-  link: /character-building/new-to-dnd.md
+  link: /character-building/new-to-dnd
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
