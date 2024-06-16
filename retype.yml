@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: ./ (root)
 url: https://jmac-0904.github.io 
 branding:
   title: DW Guide
