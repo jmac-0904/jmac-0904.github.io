@@ -7,6 +7,7 @@ branding:
   colors:
     label: "c9ad6a"
       background: "#eee5ce"
+
 links:
 - text: Retype's Getting Started
   link: https://retype.com/guides/getting-started/
